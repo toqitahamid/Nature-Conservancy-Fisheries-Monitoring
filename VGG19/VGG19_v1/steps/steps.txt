@@ -1,0 +1,3 @@
+Keras deep learning model's weight is not used because accuracy is too low. Hence, models from this link has been used https://github.com/flyyufelix/cnn_finetune.
+
+Heavy augmentation has used for pre-processing the image. 
